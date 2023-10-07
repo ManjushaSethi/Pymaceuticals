@@ -8,6 +8,6 @@ Tumor Volume was measusred for different Drug Regimens
 After doing the Statisical Analysis and different plots following can be inferred:
 
 1. Capomilin and Ramicane were effectice in reducing the Tumor Volume.
-2. There is a positive coorelation(0.84) between mouse weight and the average tumor volume
+2. There is a positive coorelation(0.84) between mouse weight and the average tumor volume which means as the Mice weight went up, average Tumor volume went up too.
 3. Sample size for male and female was almost equally distributed
 4. Number of mice tested for Capomilin and Ramicane were higher than the other treatment regimens
